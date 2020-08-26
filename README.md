@@ -1,7 +1,7 @@
 # Tutorial sobre la interfaz de línea de comandos del sistema operativo
 
 ## Recursos
-- 11 comandos básicos para la línea de comandos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) | Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+- Comandos básicos para Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) | Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Windows
 ### Navegación en el sistema de archivos
