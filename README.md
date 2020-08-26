@@ -34,14 +34,14 @@ dir s*
 El comando [cd](https://ss64.com/nt/cd.html) (*change directory*) se utiliza para cambiar de directorio.
 
 ```shell
-# Cambio al directorio raíz
-cd \
-
 # Cambio de directorio
 cd <ruta-directorio>
 # Ejemplos:
 cd C:\Users\mfvargas
 cd Pictures
+
+# Cambio al directorio raíz
+cd \
 
 # Cambio al directorio padre
 cd ..
