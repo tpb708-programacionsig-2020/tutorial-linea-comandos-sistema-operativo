@@ -56,3 +56,11 @@ mkdir <nuevo-directorio>
 mkdir miproyecto
 ```
 
+El comando [more](https://ss64.com/nt/more.html) se utiliza para desplegar de forma paginada la salida de un proceso. Puede emplearse para desplegar el contenido de un archivo de texto.
+
+```shell
+# Despliegue del contenido de un archivo
+more <ruta-archivo>
+# Ejemplos:
+more hola.py
+```
