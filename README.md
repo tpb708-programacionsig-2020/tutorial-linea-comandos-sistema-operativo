@@ -51,9 +51,9 @@ El comando [md](https://ss64.com/nt/md.html) (*make directory*) se utiliza para 
 
 ```shell
 # Creación de un directorio
-mkdir <nuevo-directorio>
+md <nuevo-directorio>
 # Ejemplos:
-mkdir miproyecto
+md miproyecto
 ```
 
 El comando [more](https://ss64.com/nt/more.html) se utiliza para desplegar de forma paginada la salida de un proceso. Puede emplearse para desplegar el contenido de un archivo de texto.
