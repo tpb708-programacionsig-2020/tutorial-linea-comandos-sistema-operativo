@@ -20,6 +20,15 @@ dir
 
 # Listado paginado
 dir /p
+
+# Listado de todos los archivos con una extensión determinada
+# Ejemplos:
+dir *.txt
+dir *.py
+
+# Listado de todos los archivos cuyo nombre inicia con un patrón determinado
+# Ejemplos:
+dir s*
 ```
 
 El comando [cd](https://ss64.com/nt/cd.html) (*change directory*) se utiliza para cambiar de directorio.
@@ -30,6 +39,9 @@ cd \
 
 # Cambio de directorio
 cd <ruta-directorio>
+# Ejemplos:
+cd C:\Users\mfvargas
+cd Pictures
 
 # Cambio al directorio padre
 cd ..
@@ -40,5 +52,7 @@ El comando [md](https://ss64.com/nt/md.html) (*make directory*) se utiliza para 
 ```shell
 # Creación de un directorio
 mkdir <nuevo-directorio>
+# Ejemplos:
+mkdir miproyecto
 ```
 
