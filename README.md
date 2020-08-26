@@ -23,17 +23,17 @@ El comando [cd](https://ss64.com/nt/cd.html) (*change directory*) se utiliza par
 # Cambio al directorio raíz
 cd \
 
-# Cambio a un subdirectorio
-cd <nombre-subdirectorio>
+# Cambio de directorio
+cd <ruta-directorio>
 
 # Cambio al directorio padre
 cd ..
 ```
 
-El comando [md](https://ss64.com/nt/md.html) (*make directory*) se utiliza para crear un subdirectorio.
+El comando [md](https://ss64.com/nt/md.html) (*make directory*) se utiliza para crear un directorio.
 
 ```shell
-# Creación de un subdirectorio
-mkdir <nuevo-subdirectorio>
+# Creación de un directorio
+mkdir <nuevo-directorio>
 ```
 
