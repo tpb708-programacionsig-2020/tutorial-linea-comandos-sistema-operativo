@@ -2,7 +2,7 @@
 
 ## Recursos
 - Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
-- Algunos comandos básicos para Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+- Algunos comandos básicos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Windows
 El sistema de archivos de Windows tiene una estructura jerárquica organizada en **directorios** (o carpetas). Un directorio puede contener **archivos** y **subdirectorios** (i.e. directorios "hijos"). Cada sistema de archivos tiene un **directorio raíz** (ej. ```C:\```), el cual contiene todos los archivos y subdirectorios.
