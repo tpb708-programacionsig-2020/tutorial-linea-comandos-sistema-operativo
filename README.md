@@ -5,8 +5,13 @@
 - Algunos comandos básicos para Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) | Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Windows
-El sistema de archivos de Windows tiene una estructura jerárquica organizada en directorios (o carpetas). Un directorio puede contener archivos y subdirectorios (i.e. directorios "hijos"). Cada sistema de archivos tiene un directorio raíz, el cual contiene todos los archivos y subdirectorios.
+El sistema de archivos de Windows tiene una estructura jerárquica organizada en **directorios** (o carpetas). Un directorio puede contener **archivos** y **subdirectorios** (i.e. directorios "hijos"). Cada sistema de archivos tiene un **directorio raíz** (ej. ```C:\```), el cual contiene todos los archivos y subdirectorios.
 
+Cada archivo y directorio se identifica mediante una ruta. Hay dos tipos de rutas:
+- **Rutas absolutas**: se especifican a partir del directorio raíz. Por ejemplo: ```C:\Users\mfvargas```
+- **Rutas relativas**: se especificar a partir del directorio actual. Por ejemplo: ```Downloads\datos```; en este caso, si el directorio actual es ```C:\Users\mfvargas```, la ruta completa es ```C:\Users\mfvargas\Downloads\datos```
+
+### Comandos comúnmente utilizados
 El comando [dir](https://ss64.com/nt/dir.html) (*directory*) despliega la lista de archivos y subdirectorios de un directorio.
 
 ```shell
