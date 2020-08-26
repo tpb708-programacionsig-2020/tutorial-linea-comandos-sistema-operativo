@@ -45,6 +45,9 @@ cd \
 
 # Cambio al directorio padre
 cd ..
+
+# Impresión del directorio actual
+echo %cd%
 ```
 
 El comando [md](https://ss64.com/nt/md.html) (*make directory*) se utiliza para crear un directorio.
