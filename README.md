@@ -5,16 +5,16 @@
 El sistema de archivos de Windows tiene una estructura jerárquica organizada en directorios (o carpetas) y subdirectorios. Así, un directorio puede contener archivos y subdirectorios. Cada sistema de archivos tiene un directorio raíz, el cual contiene todos los demás directorios.
 
 ```shell
-# Cambio al directorio raíz
+# Para moverse al directorio raíz
 cd \
 ```
 
-Cambio a un subdirectorio
 ```shell
+# Para moverse a un subdirectorio
 cd <nombre-subdirectorio>
 ```
 
-Cambio al directorio padre
 ```shell
+# Para moverse al directorio padre
 cd ..
 ```
