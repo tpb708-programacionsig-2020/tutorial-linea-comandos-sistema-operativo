@@ -9,7 +9,7 @@ El sistema de archivos de Windows tiene una estructura jerárquica organizada en
 
 Cada archivo y directorio se identifica mediante una ruta. Hay dos tipos de rutas:
 - **Rutas absolutas**: se especifican a partir del directorio raíz. Por ejemplo: ```C:\Users\mfvargas```
-- **Rutas relativas**: se especificar a partir del directorio actual. Por ejemplo: ```Downloads\datos```; en este caso, si el directorio actual es ```C:\Users\mfvargas```, la ruta completa es ```C:\Users\mfvargas\Downloads\datos```
+- **Rutas relativas**: se especifican a partir de un directorio cualquiera (ej. el directorio actual). Por ejemplo: si el directorio actual es ```C:\Users\mfvargas``` y se le añade la ruta relativa ```Downloads\datos```, la ruta completa es ```C:\Users\mfvargas\Downloads\datos```
 
 ### Comandos comúnmente utilizados
 El comando [dir](https://ss64.com/nt/dir.html) (*directory*) despliega la lista de archivos y subdirectorios de un directorio.
